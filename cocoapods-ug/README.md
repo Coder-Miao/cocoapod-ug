@@ -8,4 +8,4 @@ A description of cocoapods-ug.
 
 ## Usage
 
-    $ pod spec ug POD_NAME
+    $ pod uginstall --native
