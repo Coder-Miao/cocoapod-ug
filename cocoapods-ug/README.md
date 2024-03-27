@@ -7,5 +7,5 @@ A description of cocoapods-ug.
     $ gem install cocoapods-ug
 
 ## Usage
-
+    # native use
     $ pod uginstall --native
